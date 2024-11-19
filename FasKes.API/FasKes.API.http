@@ -1,0 +1,6 @@
+@FasKes.API_HostAddress = http://localhost:5110
+
+GET {{FasKes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
