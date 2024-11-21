@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using FasKes.Application.Common.Mappings;
 using FasKes.Domain.Entity.R;
 
-namespace FasKes.Application.RPendidikan1.Query.RPendidikan1GetAll
+namespace FasKes.Application.RPendidikan1App.Dto
 {
     public class RPendidikan1Dto : IMapFrom<RPendidikan1>
     {
